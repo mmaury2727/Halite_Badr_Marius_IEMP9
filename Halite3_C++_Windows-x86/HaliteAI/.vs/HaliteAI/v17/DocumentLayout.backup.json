@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\HaliteAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\MyBot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\constants.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\command.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\game_map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\map_cell.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\game_map.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\command.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\constants.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\direction.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\dropoff.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\entity.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\input.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\log.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\position.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\ship.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\shipyard.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\types.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9237084-4A82-4CBC-BB1B-512C3E509486}|HaliteAI.vcxproj|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\dropoff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\halite3\\MyBot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyBot.cpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\MyBot.cpp",
+              "RelativeDocumentMoniker": "..\\MyBot.cpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\MyBot.cpp",
+              "RelativeToolTip": "..\\MyBot.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T14:43:07.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "entity.hpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\entity.hpp",
+              "RelativeDocumentMoniker": "..\\hlt\\entity.hpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\entity.hpp",
+              "RelativeToolTip": "..\\hlt\\entity.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T15:15:14.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "command.hpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\command.hpp",
+              "RelativeDocumentMoniker": "..\\hlt\\command.hpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\command.hpp",
+              "RelativeToolTip": "..\\hlt\\command.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T15:14:36.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "player.cpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\player.cpp",
+              "RelativeDocumentMoniker": "..\\hlt\\player.cpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\player.cpp",
+              "RelativeToolTip": "..\\hlt\\player.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T15:19:47.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "map_cell.hpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\map_cell.hpp",
+              "RelativeDocumentMoniker": "..\\hlt\\map_cell.hpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\map_cell.hpp",
+              "RelativeToolTip": "..\\hlt\\map_cell.hpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T15:14:19.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "game_map.cpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\game_map.cpp",
+              "RelativeDocumentMoniker": "..\\hlt\\game_map.cpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\game_map.cpp",
+              "RelativeToolTip": "..\\hlt\\game_map.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T15:19:58.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "log.cpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\log.cpp",
+              "RelativeDocumentMoniker": "..\\hlt\\log.cpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\log.cpp",
+              "RelativeToolTip": "..\\hlt\\log.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T15:07:58.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "constants.cpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\constants.cpp",
+              "RelativeDocumentMoniker": "..\\hlt\\constants.cpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\constants.cpp",
+              "RelativeToolTip": "..\\hlt\\constants.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T15:01:54.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "command.cpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\command.cpp",
+              "RelativeDocumentMoniker": "..\\hlt\\command.cpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\command.cpp",
+              "RelativeToolTip": "..\\hlt\\command.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T15:01:42.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "game_map.hpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\game_map.hpp",
+              "RelativeDocumentMoniker": "..\\hlt\\game_map.hpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\game_map.hpp",
+              "RelativeToolTip": "..\\hlt\\game_map.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T15:15:05.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dropoff.hpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\dropoff.hpp",
+              "RelativeDocumentMoniker": "..\\hlt\\dropoff.hpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\dropoff.hpp",
+              "RelativeToolTip": "..\\hlt\\dropoff.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T15:14:23.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "log.hpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\log.hpp",
+              "RelativeDocumentMoniker": "..\\hlt\\log.hpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\log.hpp",
+              "RelativeToolTip": "..\\hlt\\log.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T15:14:38.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "input.hpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\input.hpp",
+              "RelativeDocumentMoniker": "..\\hlt\\input.hpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\input.hpp",
+              "RelativeToolTip": "..\\hlt\\input.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T15:15:02.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "game.hpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\game.hpp",
+              "RelativeDocumentMoniker": "..\\hlt\\game.hpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\game.hpp",
+              "RelativeToolTip": "..\\hlt\\game.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T15:15:11.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "constants.hpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\constants.hpp",
+              "RelativeDocumentMoniker": "..\\hlt\\constants.hpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\constants.hpp",
+              "RelativeToolTip": "..\\hlt\\constants.hpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T15:15:23.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "player.hpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\player.hpp",
+              "RelativeDocumentMoniker": "..\\hlt\\player.hpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\player.hpp",
+              "RelativeToolTip": "..\\hlt\\player.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T15:14:40.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "position.hpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\position.hpp",
+              "RelativeDocumentMoniker": "..\\hlt\\position.hpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\position.hpp",
+              "RelativeToolTip": "..\\hlt\\position.hpp",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T15:14:52.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "direction.hpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\direction.hpp",
+              "RelativeDocumentMoniker": "..\\hlt\\direction.hpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\direction.hpp",
+              "RelativeToolTip": "..\\hlt\\direction.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T15:14:24.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "shipyard.hpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\shipyard.hpp",
+              "RelativeDocumentMoniker": "..\\hlt\\shipyard.hpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\shipyard.hpp",
+              "RelativeToolTip": "..\\hlt\\shipyard.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T15:14:47.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "types.hpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\types.hpp",
+              "RelativeDocumentMoniker": "..\\hlt\\types.hpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\types.hpp",
+              "RelativeToolTip": "..\\hlt\\types.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T15:14:46.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ship.hpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\ship.hpp",
+              "RelativeDocumentMoniker": "..\\hlt\\ship.hpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\ship.hpp",
+              "RelativeToolTip": "..\\hlt\\ship.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T15:14:22.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ship.cpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\ship.cpp",
+              "RelativeDocumentMoniker": "..\\hlt\\ship.cpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\ship.cpp",
+              "RelativeToolTip": "..\\hlt\\ship.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T15:08:13.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dropoff.cpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\dropoff.cpp",
+              "RelativeDocumentMoniker": "..\\hlt\\dropoff.cpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\dropoff.cpp",
+              "RelativeToolTip": "..\\hlt\\dropoff.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T15:06:58.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\game.cpp",
+              "RelativeDocumentMoniker": "..\\hlt\\game.cpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\Halite3_C\u002B\u002B_Windows-x86\\hlt\\game.cpp",
+              "RelativeToolTip": "..\\hlt\\game.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T15:20:16.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MyBot.cpp",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\halite3\\MyBot.cpp",
+              "RelativeDocumentMoniker": "..\\..\\halite3\\MyBot.cpp",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Cours\\IEM 2\\IA\\halite3\\MyBot.cpp",
+              "RelativeToolTip": "..\\..\\halite3\\MyBot.cpp",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAgwBMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T13:32:54.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "corecrt_wstdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h",
+              "ViewState": "AQIAALoAAAAAAAAAAAAAAMkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-09T09:24:32.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
